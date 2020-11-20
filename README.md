@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Eleas Vrahnos 
+2. Student ID: 2378876
+3. Email: evrahnos@chapman.edu
+4. Class: CPSC-298-03
 5. Assignment: numbers 
 
 ## Application Purpose
